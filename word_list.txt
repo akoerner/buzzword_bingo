@@ -1,0 +1,67 @@
+Artificial Intelligence	
+Machine Learning
+Blockchain
+SCRUM
+Big Data
+Quantum Computing
+Internet of Things (IoT)
+Cybersecurity
+Virtual Reality
+Augmented Reality
+Predictive Analytics
+Natural Language Processing
+Distributed Systems
+5G Network
+Robotics
+Neural Networks
+Cryptocurrency
+CI/CD
+DevOps
+Microservices
+Serverless
+Back end
+Front end
+Cloud Native
+Kubernetes
+Docker
+Container/s
+Agile
+Microservice
+Minimal viable x
+Digital Twin
+Sprint
+Backlog
+Artificial Intelligence	
+Machine Learning
+Blockchain
+Big Data
+Quantum Computing
+Internet of Things (IoT)
+Cybersecurity
+Virtual Reality
+Augmented Reality
+Predictive Analytics
+Natural Language Processing
+Distributed Systems
+5G Network
+Robotics
+Neural Networks
+Cryptocurrency
+CI/CD
+DevOps
+Microservices
+Serverless
+Back end
+Front end
+Kubernetes
+Docker
+Container/s
+Agile
+Microservice
+Minimal viable x
+Digital Twin
+Sprint
+Backlog
+Data lake
+Ecosystem
+Agile
