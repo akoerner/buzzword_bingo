@@ -1,6 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-# Read input file into an array
 words=$(printf "%s\nFREE" "$(cat word_list.txt | shuf | tail -n 24)" | shuf)
 
 
